@@ -1,0 +1,39 @@
+body {
+	background-image:url(http://natbg.com/wp-content/uploads/2016/09/mountains-mountains-snow-lake-nature-trees-desktop-images-1600x1080.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-color: rgba(93, 83, 147, .6);
+}
+
+body {
+	font-family: 'Mukta Malar', sans-serif;
+	
+}
+
+hr {
+  max-width: 65px;
+  border-width: 3px;
+  border-color: #F05F44; 
+}
+
+header.startup {
+	background-position: center;
+}
+
+header.startup {
+	margin-top: 400px;
+}
+
+header.startup h1 {
+	font-size: 2rem
+}
+
+h1 {
+	color: rgb(122, 20, 32);
+}
+.btn-primary:hover {
+	background-color: #661141;
+	border-width: 5px;
+	border-color: #440026
+	cursor: pointer;
+}
